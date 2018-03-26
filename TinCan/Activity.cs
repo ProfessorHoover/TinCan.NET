@@ -25,7 +25,7 @@ namespace TinCan
         public String ObjectType { get { return OBJECT_TYPE; } }
 
         private string _id;
-        public string id
+        public uri id
         {
             get { return _id; }
             set
